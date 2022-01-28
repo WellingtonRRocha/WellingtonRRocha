@@ -2,7 +2,6 @@
 <div align="center">
   <a href="https://github.com/WellingtonRRocha">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WellingtonRRocha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WellingtonRRocha&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="left" alt="Rafa-Js" height="30" width="80" src="https://ebaconline.com.br/images/tild6639-3933-4730-b365-373764373334__kotlin_logo_2021.svg">
