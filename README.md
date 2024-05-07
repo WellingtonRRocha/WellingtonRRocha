@@ -8,7 +8,7 @@
   <img align="left" alt="Rafa-Ts" height="30" width="80" src="https://ebaconline.com.br/images/tild6666-3763-4265-a337-396232313336__android_studio_trade.svg">
   <img align="left" alt="Rafa-React" height="30" width="80" src="https://ebaconline.com.br/images/tild6261-3466-4331-a331-303465343339__gradle.svg">
   <img align="left" alt="Rafa-HTML" height="30" width="80" src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg">
-  <img align="left" alt="Rafa-CSS" height="30" width="80" src="https://dart.dev/assets/img/shared/dart/logo+text/horizontal/white.svg">
+  <img align="left" alt="Rafa-CSS" height="30" width="80" src="https://maven.apache.org/images/maven-logo-white-on-black.png">
   <img align="left" alt="Rafa-CSS" height="30" width="80" src="https://www.adobe.com/content/dam/cc/us/en/products/xd/max2021-home/Adobe-XD-Logo-White.svg">
 </div>
   
